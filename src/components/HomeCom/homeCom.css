@@ -1,0 +1,30 @@
+.homeCom-area
+{
+    background: rgba(128, 128, 128, 0.13);
+}
+.text-color
+{
+    color: rgba(29, 29, 216, 0.904);
+}
+.text-area
+{
+    color: #6e758d;;
+}
+.spacing
+{
+    letter-spacing: .05rem;
+    font-size: 35px;
+}
+.ask-area-list
+{
+list-style: none;
+}
+.ask-question
+{
+    border: 2px solid grey;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px gray;
+    margin: 10px;
+    padding:5px;
+    
+}
